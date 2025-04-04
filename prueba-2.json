@@ -1,0 +1,660 @@
+[
+    {
+        "Rüt Haus": "Salon principal",
+        "Rüt Haus_1": "Salon principal",
+        "Rüt Haus_2": "Salon principal"
+    },
+    {
+        "Rüt Haus": "Fiesta de 15 ",
+        "Rüt Haus_1": "Fiesta de 15 ",
+        "Rüt Haus_2": "Fiesta de 15 "
+    },
+    {
+        "Rüt Haus": "Saturday, 22 Mar 2025",
+        "Rüt Haus_1": "Saturday, 22 Mar 2025",
+        "Rüt Haus_2": "Saturday, 22 Mar 2025"
+    },
+    {
+        "Rüt Haus": "Maria Ines Novagil",
+        "Rüt Haus_1": "Maria Ines Novagil",
+        "Rüt Haus_2": "Maria Ines Novagil"
+    },
+    {
+        "Rüt Haus": "Inicio: 21:00 a 05:00",
+        "Rüt Haus_1": "Inicio: 21:00 a 05:00",
+        "Rüt Haus_2": "Inicio: 21:00 a 05:00"
+    },
+    { "__EMPTY": "Observaciones: " },
+    {
+        "__EMPTY": "Plato Principal Menores: la salsa barbacoa va en cazuela de sal, (Rural)"
+    },
+    {
+        "__EMPTY": "Plato Mesa Padres: 7 truchas + 1 ojo como sale +  1 ojo con fritas."
+    },
+    { "__EMPTY": "Torta Motivo: Rogel toda cubierta de Merengue" },
+    { "__EMPTY": "" },
+    {
+        "Rüt Haus_2": "M",
+        "__EMPTY_1": "m",
+        "__EMPTY_2": ">1hs",
+        "__EMPTY_3": "Técnica"
+    },
+    {
+        "__EMPTY": "COMIDA Y BEBIDA",
+        "Rüt Haus": "Cant. De Invitados:",
+        "Rüt Haus_2": 54,
+        "__EMPTY_1": 84,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 35
+    },
+    {
+        "__EMPTY": "Recepción",
+        "Rüt Haus": "21:00",
+        "Rüt Haus_1": "22:30",
+        "Rüt Haus_2": 11,
+        "__EMPTY_1": 2,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 1,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Humita en olla",
+        "Rüt Haus": "Bocados",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Kurispi de salmon y palta",
+        "Rüt Haus": "Bocados",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Bolitas de hongo, harissa y yogur de pepinos",
+        "Rüt Haus": "Bocados",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Tapeo de Quesos Y Fiambres",
+        "Rüt Haus": "Islas",
+        "Rüt Haus_2": 5,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 270
+    },
+    {
+        "__EMPTY": "Isla de carnes Rut",
+        "Rüt Haus": "Islas",
+        "Rüt Haus_2": 2,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 108
+    },
+    {
+        "__EMPTY": "Recepcion Born",
+        "Rüt Haus": "Islas",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 84
+    },
+    {
+        "__EMPTY": "Panzzoti de verdura con salsa de quesos",
+        "Rüt Haus": "Platos Bandejeados",
+        "Rüt Haus_2": 0.2,
+        "__EMPTY_1": 0.3,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 36
+    },
+    {
+        "__EMPTY": "Ñoquis Romanos con salsa de Puerro y Rucula (3u)",
+        "Rüt Haus": "Platos Bandejeados",
+        "Rüt Haus_2": 0.2,
+        "__EMPTY_1": 0.3,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 36
+    },
+    {
+        "__EMPTY": "Agnolotis de cordero y fondo oscuro (9)",
+        "Rüt Haus": "Platos Bandejeados",
+        "Rüt Haus_2": 0.5,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 27
+    },
+    {
+        "__EMPTY": "Comida de Personal - Ravioles con Estofado",
+        "Rüt Haus": "Comida Personal",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 1,
+        "__EMPTY_4": 35
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "22:30", "Rüt Haus_1": "23:20" },
+    {
+        "__EMPTY": "Plato Principal",
+        "Rüt Haus": "23:20",
+        "Rüt Haus_1": "00:05",
+        "Rüt Haus_2": 7,
+        "__EMPTY_1": 4,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Ojo de bife Grill (Rut)",
+        "Rüt Haus": "Plato Principal Mayor",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Pure de zanahoria (Rut)",
+        "Rüt Haus": "Plato Principal Mayor",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Papas Crujientes (Rut)",
+        "Rüt Haus": "Plato Principal Mayor",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Chip de Hongos Portobello (Rut)",
+        "Rüt Haus": "Plato Principal Mayor",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Salsa Demiglace (porcion)",
+        "Rüt Haus": "Plato Principal Mayor",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Ojo de bife Grill (Rut)",
+        "Rüt Haus": "Plato Principal Menores",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1.03,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 87
+    },
+    {
+        "__EMPTY": "Papas rusticas",
+        "Rüt Haus": "Plato Principal Menores",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1.5,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 126
+    },
+    {
+        "__EMPTY": "Coleslaw",
+        "Rüt Haus": "Plato Principal Menores",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 0.1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 9
+    },
+    {
+        "__EMPTY": "Risotto di zucca, hinojos y zucchinis asados, semillas de girasol, crema acida",
+        "Rüt Haus": "Plato vegetariano Adulto",
+        "Rüt Haus_2": 0.092,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 5
+    },
+    {
+        "__EMPTY": "Bastones de muzzarella con papas noisette",
+        "Rüt Haus": "Plato vegetariano Menor",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 0.064,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Pan de mesa",
+        "Rüt Haus": "Pan de mesa",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 138
+    },
+    {
+        "__EMPTY": "Trucha Arcoiris ahumada con manteca de alcaparras",
+        "Rüt Haus": "Plato Principal Mesa Padres",
+        "Rüt Haus_2": 0.185,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 10
+    },
+    {
+        "__EMPTY": "Risotto Vegano",
+        "Rüt Haus": "Palto Vegano",
+        "Rüt Haus_2": 0.074,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 4
+    },
+    {
+        "__EMPTY": "Menu Celiaco",
+        "Rüt Haus": "Plato Celiaco",
+        "Rüt Haus_2": 0.037,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "00:05", "Rüt Haus_1": "00:55" },
+    {
+        "__EMPTY": "Plato Postre",
+        "Rüt Haus": "00:55",
+        "Rüt Haus_1": "01:25",
+        "Rüt Haus_2": 2,
+        "__EMPTY_1": 2,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Humedo de chocolate (Rut)",
+        "Rüt Haus": "Postre Mayores",
+        "Rüt Haus_2": 1.03,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 56
+    },
+    {
+        "__EMPTY": "Humedo de chocolate (menores)",
+        "Rüt Haus": "Postre Menores",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1.03,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 87
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "01:25", "Rüt Haus_1": "02:35" },
+    {
+        "__EMPTY": "Torta",
+        "Rüt Haus": "02:35",
+        "Rüt Haus_1": "02:45",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Torta Motivo - Rogel",
+        "Rüt Haus": "Torta Motivo",
+        "Rüt Haus_2": 0.018,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "02:45", "Rüt Haus_1": "02:45" },
+    {
+        "__EMPTY": "Mesa Dulce",
+        "Rüt Haus": "02:45",
+        "Rüt Haus_1": "03:15",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Mesa dulce Rut",
+        "Rüt Haus": "Mesa Dulce",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Mesa dulce menores Rut",
+        "Rüt Haus": "Mesa Dulce",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 84
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "03:15", "Rüt Haus_1": "04:30" },
+    {
+        "__EMPTY": "Fin de Fiesta",
+        "Rüt Haus": "04:30",
+        "Rüt Haus_1": "05:00",
+        "Rüt Haus_2": 2,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Sandwich de milanesa fin de fiesta",
+        "Rüt Haus": "Comida",
+        "Rüt Haus_2": 1.25,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 152
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "05:00", "Rüt Haus_1": "05:00" },
+    {
+        "__EMPTY": "Bebida Eventos Sociales 8 hs",
+        "Rüt Haus": "05:00",
+        "Rüt Haus_1": "05:00",
+        "Rüt Haus_2": 13,
+        "__EMPTY_1": 10,
+        "__EMPTY_2": 4,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Café Nespresso",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Almendras bañadas en chocolate x porc.",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Hielo rolito x 15 Kg",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 0.08,
+        "__EMPTY_1": 0.08,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 12
+    },
+    {
+        "__EMPTY": "Coca Zero Lata x 354 cc (Rut)",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 1.639,
+        "__EMPTY_1": 1.639,
+        "__EMPTY_2": 0.8,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 227
+    },
+    {
+        "__EMPTY": "SMART sin gas x 591 cc (Rut)",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 2.39,
+        "__EMPTY_1": 2.39,
+        "__EMPTY_2": 1.2,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 330
+    },
+    {
+        "__EMPTY": "SMART con gas x 591 cc (Rut)",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 1.266,
+        "__EMPTY_1": 1.266,
+        "__EMPTY_2": 0.6,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 175
+    },
+    {
+        "__EMPTY": "Sprite Lata x 354 cc (Rut)",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 0.75,
+        "__EMPTY_1": 0.75,
+        "__EMPTY_2": 0.4,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 104
+    },
+    {
+        "__EMPTY": "Coca cola Regular Lata x 354 cc (Rut)",
+        "Rüt Haus": "Bebidas sin alcohol",
+        "Rüt Haus_2": 1.7,
+        "__EMPTY_1": 1.7,
+        "__EMPTY_2": 0.8,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 235
+    },
+    {
+        "__EMPTY": "Vajilla y Manteleria Social",
+        "Rüt Haus": "Vajilla y Manteleria",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 138
+    },
+    {
+        "__EMPTY": "Vinos y Champagne del Cliente Libre",
+        "Rüt Haus": "Bebida del cliente",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Barra de tragos Rut Premiun (menos de 120)",
+        "Rüt Haus": "Barra de Tragos Mayores",
+        "Rüt Haus_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 54
+    },
+    {
+        "__EMPTY": "Barra de menores (menos de 120)",
+        "Rüt Haus": "Barra de Tragos Menores",
+        "Rüt Haus_2": 0,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 84
+    },
+    { "__EMPTY": "Actividad", "Rüt Haus": "05:00", "Rüt Haus_1": "05:00" },
+    { "__EMPTY": "PERSONAL", "Rüt Haus": "Cant:", "Rüt Haus_1": 50 },
+    {
+        "__EMPTY": "Nombre del Puesto",
+        "Rüt Haus": "Cantidad",
+        "Rüt Haus_1": "Hr Ingreso",
+        "Rüt Haus_2": "Hr Egreso",
+        "__EMPTY_1": "Jornada"
+    },
+    {
+        "__EMPTY": "Capitan de armado",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "10:00",
+        "Rüt Haus_2": "19:00",
+        "__EMPTY_1": 9
+    },
+    {
+        "__EMPTY": "Camareros armado",
+        "Rüt Haus": 5,
+        "Rüt Haus_1": "10:00",
+        "Rüt Haus_2": "19:00",
+        "__EMPTY_1": 9
+    },
+    {
+        "__EMPTY": "Maitre",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "18:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 13
+    },
+    {
+        "__EMPTY": "Capitan de salón",
+        "Rüt Haus": 2,
+        "Rüt Haus_1": "18:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 13
+    },
+    {
+        "__EMPTY": "Cabecera ",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 12
+    },
+    {
+        "__EMPTY": "Camarero desbarazo",
+        "Rüt Haus": 5,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 12
+    },
+    {
+        "__EMPTY": "Camarero barra",
+        "Rüt Haus": 2,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 12
+    },
+    {
+        "__EMPTY": "Camarero bandejeo",
+        "Rüt Haus": 3,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "04:00",
+        "__EMPTY_1": 9
+    },
+    {
+        "__EMPTY": "Camarero carro de bebida",
+        "Rüt Haus": 4,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "06:00",
+        "__EMPTY_1": 11
+    },
+    {
+        "__EMPTY": "Camarero Isla",
+        "Rüt Haus": 5,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "05:00",
+        "__EMPTY_1": 10
+    },
+    {
+        "__EMPTY": "Jefe de Cocina",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "14:00",
+        "Rüt Haus_2": "03:00",
+        "__EMPTY_1": 13
+    },
+    {
+        "__EMPTY": "Capitan de Cocina",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "16:00",
+        "Rüt Haus_2": "03:00",
+        "__EMPTY_1": 11
+    },
+    {
+        "__EMPTY": "Capitan de cocina 2do turno",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "14:00",
+        "Rüt Haus_2": "03:00",
+        "__EMPTY_1": 13
+    },
+    {
+        "__EMPTY": "Capitan de cocina cierre",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "06:00",
+        "__EMPTY_1": 11
+    },
+    {
+        "__EMPTY": "Cocinero",
+        "Rüt Haus": 8,
+        "Rüt Haus_1": "16:00",
+        "Rüt Haus_2": "03:00",
+        "__EMPTY_1": 11
+    },
+    {
+        "__EMPTY": "Cocinero cierre",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "06:00",
+        "__EMPTY_1": 11
+    },
+    {
+        "__EMPTY": "Elaboracion",
+        "Rüt Haus": 4,
+        "Rüt Haus_1": "07:00",
+        "Rüt Haus_2": "16:00",
+        "__EMPTY_1": 9
+    },
+    {
+        "__EMPTY": "Capitan de Bacha",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 12
+    },
+    {
+        "__EMPTY": "Bachero",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "19:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 12
+    },
+    {
+        "__EMPTY": "Guardarropas",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "16:00",
+        "Rüt Haus_2": "23:00",
+        "__EMPTY_1": 7
+    },
+    {
+        "__EMPTY": "Guardarropas 2do turno",
+        "Rüt Haus": 1,
+        "Rüt Haus_1": "22:00",
+        "Rüt Haus_2": "07:00",
+        "__EMPTY_1": 9
+    }
+]

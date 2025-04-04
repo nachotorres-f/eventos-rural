@@ -1,0 +1,443 @@
+[
+    {
+        "Origami": "Sala de ventas",
+        "Origami_1": "Sala de ventas",
+        "Origami_2": "Sala de ventas"
+    },
+    {
+        "Origami": "Degustacion",
+        "Origami_1": "Degustacion",
+        "Origami_2": "Degustacion"
+    },
+    {
+        "Origami": "Wednesday, 05 Mar 2025",
+        "Origami_1": "Wednesday, 05 Mar 2025",
+        "Origami_2": "Wednesday, 05 Mar 2025"
+    },
+    {
+        "Origami": "Degus Corporativa",
+        "Origami_1": "Degus Corporativa",
+        "Origami_2": "Degus Corporativa"
+    },
+    {
+        "Origami": "Inicio: 13:00 a 15:00",
+        "Origami_1": "Inicio: 13:00 a 15:00",
+        "Origami_2": "Inicio: 13:00 a 15:00"
+    },
+    { "__EMPTY": "Observaciones: " },
+    { "__EMPTY": "Capitan de salon: Maciel Nicole" },
+    { "__EMPTY": "Degustacion evento CORPORATIVO INFORMAL" },
+    {
+        "Origami_2": "M",
+        "__EMPTY_1": "m",
+        "__EMPTY_2": ">1hs",
+        "__EMPTY_3": "Técnica"
+    },
+    {
+        "__EMPTY": "COMIDA Y BEBIDA",
+        "Origami": "Cant. De Invitados:",
+        "Origami_2": 6,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0
+    },
+    {
+        "__EMPTY": "Recepción",
+        "Origami": "13:00",
+        "Origami_1": "13:30",
+        "Origami_2": 3,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Truchon ahumado casero",
+        "Origami": "Tapeo en mesa",
+        "Origami_2": 0.1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Coliflor Gratinado",
+        "Origami": "Tapeo en mesa",
+        "Origami_2": 0.04,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Hummus de remolacha",
+        "Origami": "Tapeo en mesa",
+        "Origami_2": 0.04,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Ceviche de pesca, langostinos vieiras y leche de tigre",
+        "Origami": "Tapeo en mesa",
+        "Origami_2": 0.1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Kurispi de salmon y palta",
+        "Origami": "Bocados",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Mollejas al horno con mouselina de papa y azafran",
+        "Origami": "Bocados",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    { "__EMPTY": "Actividad", "Origami": "13:30", "Origami_1": "13:30" },
+    {
+        "__EMPTY": "Plato Principal",
+        "Origami": "13:30",
+        "Origami_1": "14:10",
+        "Origami_2": 5,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Risotto de tomate seco y burrata (PPal)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Risotto di zucca, hinojos y zucchinis asados, semillas de girasol, crema acida",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Panzzoti de cordero con crema de romero",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Ñoquis Romanos con salsa de Puerro y Rucula (5u)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Colita de Cuadril Breaseada (principal)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Papines, esparragos y tomates cherry",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Salsa Demiglace (porcion)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Bondiola de cerdo (principal)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Cremoso de batata (Porcion)",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Salsa de cerveza negra",
+        "Origami": "Principal Bandejeado",
+        "Origami_2": 0.333,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Pan de mesa",
+        "Origami": "pan de mesa",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    { "__EMPTY": "Actividad", "Origami": "14:10", "Origami_1": "14:10" },
+    {
+        "__EMPTY": "Plato Postre",
+        "Origami": "14:10",
+        "Origami_1": "14:40",
+        "Origami_2": 2,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Humedo de chocolate (Rut)",
+        "Origami": "Postres",
+        "Origami_2": 0.33,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Apple Caramel (Entero Comercial) (ST)",
+        "Origami": "Postres",
+        "Origami_2": 0.33,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Suspiro de limon - Plato (Comercial)",
+        "Origami": "Postres",
+        "Origami_2": 0.33,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Volcan de Dulce de leche (Comercial)",
+        "Origami": "Postres",
+        "Origami_2": 0.33,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Pavlova con crema pastelera de limon, frutos rojos (Rut)",
+        "Origami": "Postres",
+        "Origami_2": 0.33,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 2
+    },
+    { "__EMPTY": "Actividad", "Origami": "14:40", "Origami_1": "15:00" },
+    {
+        "__EMPTY": "Bebida Almuerzo / Cena Formal",
+        "Origami": "15:00",
+        "Origami_1": "15:00",
+        "Origami_2": 12,
+        "__EMPTY_1": 7,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "TOTAL"
+    },
+    {
+        "__EMPTY": "Café Nespresso",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Almendras bañadas en chocolate x porc.",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Hielo rolito x 15 Kg",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 0.045,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Coca cola Regular Lata x 354 cc (Rut)",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 1.25,
+        "__EMPTY_1": 1.25,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 8
+    },
+    {
+        "__EMPTY": "Coca Zero Lata x 354 cc (Rut)",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 1.2,
+        "__EMPTY_1": 1.2,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 8
+    },
+    {
+        "__EMPTY": "Sprite Lata x 354 cc (Rut)",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 0.4,
+        "__EMPTY_1": 0.4,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 3
+    },
+    {
+        "__EMPTY": "SMART sin gas x 591 cc (Rut)",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 1.58,
+        "__EMPTY_1": 1.58,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 10
+    },
+    {
+        "__EMPTY": "SMART con gas x 591 cc (Rut)",
+        "Origami": "Bebidas sin alcohol",
+        "Origami_2": 0.92,
+        "__EMPTY_1": 0.92,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Vajilla y Manteleria Corpo",
+        "Origami": "Vajilla y Manteleria",
+        "Origami_2": 1,
+        "__EMPTY_1": 1,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Barra de menores (menos de 120)",
+        "Origami": "Barra",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    {
+        "__EMPTY": "Rutini Rose (Rut)",
+        "Origami": "Vinos",
+        "Origami_2": 0.166,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Rutini Malbec (Rut)",
+        "Origami": "Vinos",
+        "Origami_2": 0.166,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Rutini Chardonay (Rut)",
+        "Origami": "Vinos",
+        "Origami_2": 0.166,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Rutini Vin Doux Naturel (Rut)",
+        "Origami": "Vinos",
+        "Origami_2": 0.166,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 1
+    },
+    {
+        "__EMPTY": "Cerveza Corona Porron",
+        "Origami": "Cervezas",
+        "Origami_2": 1,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 6
+    },
+    { "__EMPTY": "Actividad", "Origami": "15:00", "Origami_1": "15:00" },
+    { "__EMPTY": "PERSONAL", "Origami": "Cant:", "Origami_1": 2 },
+    {
+        "__EMPTY": "Nombre del Puesto",
+        "Origami": "Cantidad",
+        "Origami_1": "Hr Ingreso",
+        "Origami_2": "Hr Egreso",
+        "__EMPTY_1": "Jornada"
+    },
+    {
+        "__EMPTY": "Cocinero",
+        "Origami": 1,
+        "Origami_1": "08:00",
+        "Origami_2": "16:00",
+        "__EMPTY_1": 8
+    },
+    {
+        "__EMPTY": "Capitan de salón",
+        "Origami": 1,
+        "Origami_1": "10:00",
+        "Origami_2": "18:00",
+        "__EMPTY_1": 8
+    }
+]
